@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stemmer_program:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stemmer_program_jar</output-path>
+    <root id="archive" name="stemmer_program.jar">
+      <element id="module-output" name="stemmer_program" />
+      <element id="file-copy" path="$PROJECT_DIR$/rootwords.txt" />
+    </root>
+  </artifact>
+</component>
